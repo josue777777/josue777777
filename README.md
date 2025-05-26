@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Josue
 
-<!--
-**josue777777/josue777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mí
+Soy un entusiasta del desarrollo de software con interés en tecnologías modernas, bases de datos y automatización. Me gusta crear soluciones eficientes y aprender constantemente.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas
+- Lenguajes: Java, JavaScript, Python
+- Frameworks: Spring Boot, React, Node.js
+- Bases de datos: MySQL, MongoDB
+- Otros: Git, Docker, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josue777777&show_icons=true&theme=dark&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue777777&layout=compact&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josue777777&theme=dark)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=josue777777&theme=github-dark)
+
+---
+
+### 📫 Cómo contactarme
+- 📧 Correo: tuemail@ejemplo.com
+- 🔗 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🌐 Portafolio: [tuportafolio.com](https://tuportafolio.com)
